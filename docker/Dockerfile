@@ -31,4 +31,3 @@ RUN pip install -r /opt/sample-app/requirements.txt
 
 EXPOSE 5000
 CMD ["/etc/bootstrap.sh", "-d"]
-    
